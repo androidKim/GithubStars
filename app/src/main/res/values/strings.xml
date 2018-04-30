@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubStars</string>
+    <string name="github_token">95c86c8cbf9e95012da87af998d07ff6f62684ba</string>
+    <string name="msg_network_not_connected">네트워크에 연결할 수 없습니다. 와이파이 및 셀룰러 상태 확인 후 다시 시도해주세요.</string>
+    <string name="msg_connect_fail">서버와 통신이 원할하지 않습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="str_msg_close_app">\'이전\' 버튼을 한번 더 누르면 종료됩니다.</string>
+
+    <string name="str_msg_1">검색어를 입력하세요.</string>
+    <string name="str_msg_2">검색</string>
+</resources>
